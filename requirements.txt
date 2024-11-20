@@ -1,0 +1,8 @@
+torch
+torchvision
+pillow
+transformers
+gradio
+pillow
+Wand
+qdrant-client==1.8.0
